@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.46f5c8f5.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/static/css/main.b27dc7d5.css",
+    "main.js": "/static/js/main.e11974c6.js",
+    "static/media/satish4.png": "/static/media/satish4.bf8b7a084b656df1fc28.png",
+    "static/media/home_automation.jpg": "/static/media/home_automation.7f89458b452ccc7c9272.jpg",
+    "static/media/ai_platform.jpg": "/static/media/ai_platform.65ffae01ee0e257ba7a4.jpg",
+    "static/media/biofuel_circle.jpg": "/static/media/biofuel_circle.3ac17178b5f525a451e9.jpg",
+    "static/media/satish02.png": "/static/media/satish02.1b2770807585f90a3c82.png",
+    "static/media/fund_management_platform.jpg": "/static/media/fund_management_platform.ef3338e2c14af34bf7f3.jpg",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.46f5c8f5.js.map": "/static/js/main.46f5c8f5.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.b27dc7d5.css.map": "/static/css/main.b27dc7d5.css.map",
+    "main.e11974c6.js.map": "/static/js/main.e11974c6.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.46f5c8f5.js"
+    "static/css/main.b27dc7d5.css",
+    "static/js/main.e11974c6.js"
   ]
 }
