@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bed21525.css",
-    "main.js": "/static/js/main.f9851835.js",
+    "main.js": "/static/js/main.dfc6e048.js",
     "static/media/satish4.png": "/static/media/satish4.bf8b7a084b656df1fc28.png",
     "static/media/home_automation.jpg": "/static/media/home_automation.7f89458b452ccc7c9272.jpg",
     "static/media/ai_platform.jpg": "/static/media/ai_platform.65ffae01ee0e257ba7a4.jpg",
@@ -10,10 +10,10 @@
     "static/media/fund_management_platform.jpg": "/static/media/fund_management_platform.ef3338e2c14af34bf7f3.jpg",
     "index.html": "/index.html",
     "main.bed21525.css.map": "/static/css/main.bed21525.css.map",
-    "main.f9851835.js.map": "/static/js/main.f9851835.js.map"
+    "main.dfc6e048.js.map": "/static/js/main.dfc6e048.js.map"
   },
   "entrypoints": [
     "static/css/main.bed21525.css",
-    "static/js/main.f9851835.js"
+    "static/js/main.dfc6e048.js"
   ]
 }
